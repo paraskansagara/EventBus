@@ -1,7 +1,5 @@
 package com.example.eventbusdemo;
 
-import org.greenrobot.eventbus.Subscribe;
-import org.greenrobot.eventbus.ThreadMode;
 
 public class Bean {
 
